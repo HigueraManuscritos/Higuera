@@ -117,5 +117,10 @@
     <p><span class="page">
       <xsl:apply-templates/></span></p>
   </xsl:template>
+  
+  <xsl:template match="stage">
+    <p><span class="stage">
+      <xsl:apply-templates/></span></p>
+  </xsl:template>
 
 </xsl:stylesheet>

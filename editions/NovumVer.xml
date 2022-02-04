@@ -4322,12 +4322,30 @@
                         <l>Allí viene un fiel amigo</l>
                         <l>Amintas, ante pastor,</l>
                         <l>que me fino de dolor.</l>
-                        <l>AMINTASDon Diego, ¿cómo esto ha sido?</l>
+                                </lg>
+                            </sp>
+                                    <sp who="Amintas">
+                                        <speaker rend="left">AMINTAS</speaker>
+                                        <lg>  
+                        <l>Don Diego, ¿cómo esto ha sido?</l>
                         <l>¿Es este tu pundonor?</l>
-                        <l>D. DIEGOEste traje ha merecido</l>
+                                        </lg>
+                                    </sp>
+                                    <sp who="Diego">
+                                        <speaker rend="left">D. DIEGO</speaker>
+                                        <lg>  
+                        <l>Este traje ha merecido</l>
                         <l>mi vida, de bien ajena.</l>
-                        <l>AMINTAS¿Por qué tan dura cadena?</l>
-                        <l>D. DIEGOPara quien tan loco ha sido,</l>
+                                        </lg>
+                                    </sp>
+                            <sp who="Amintas">
+                                <speaker rend="left">AMINTAS</speaker>
+                        <l>¿Por qué tan dura cadena?</l>
+                            </sp>
+                            <sp who="Diego">
+                                <speaker rend="left">D. DIEGO</speaker>
+                                <lg>  
+                        <l>Para quien tan loco ha sido,</l>
                         <l>Amintas, ¿no será buena?</l>
                         <l>Abrázame que me voy,</l>
                         <l>Amintas, abrazamé.</l>
